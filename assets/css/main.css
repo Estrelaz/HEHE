@@ -1052,6 +1052,38 @@ Negoço
   transition: all 0.3s ease 0s;
 }
 
+.counter .content .count-item p {
+  display: block;
+  text-align: left;
+  font-weight: 600;
+  font-size: 36px;
+  letter-spacing: 0.25px;
+  margin-bottom: 2px;
+  color: #fff;
+  margin-left: 72px;
+  margin-top: -65px;
+  -webkit-transition: all 0.3s ease 0s;
+  -moz-transition: all 0.3s ease 0s;
+  -o-transition: all 0.3s ease 0s;
+  transition: all 0.3s ease 0s;
+}
+
+.counter .content .count-item a {
+  display: block;
+  text-align: left;
+  font-weight: 600;
+  font-size: 36px;
+  letter-spacing: 0.25px;
+  margin-bottom: 2px;
+  color: #fff;
+  margin-left: 53px;
+  margin-top: -65px;
+  -webkit-transition: all 0.3s ease 0s;
+  -moz-transition: all 0.3s ease 0s;
+  -o-transition: all 0.3s ease 0s;
+  transition: all 0.3s ease 0s;
+}
+
 .counter .content .count-item span {
   display: block;
   text-align: center;
